@@ -1,0 +1,58 @@
+Garbage collecton :---->
+unused reference and delete that reference
+
+memory leak problem :--->
+
+destructor :--->
+used for garbage collection
+
+Inheritance :---->
+Acquiring the properties parent class into child class
+
+Hybird Inheritance :--->
+1 multiple Inheritance + other Inheritance
+
+Super function :--------->
+used in constructor overriding 
+
+method overloading :--->
+variabe length argument
+
+encapsulation:-->
+wrapping up of data
+
+access specifier :---->
+they can be access directly using dot operater
+     1. public(default)
+         they can be access throughout the class
+    2.  protected
+          this is not accesible outside the class
+
+    3.  private
+          this are accessible within class
+
+soft encapsulation used in python called as mangling.
+mangling :(  _  )
+
+
+Abstraction :------->
+ hiding the implementation deatils of an object without knowing unnecessary information
+
+
+ module :----->
+ this is package of function and types
+
+
+ abc = abstraction base class
+
+
+Regular expression :------->
+
+
+multithreding :---------->
+running multiple thread in program
+
+
+
+
+

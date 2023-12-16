@@ -1,0 +1,31 @@
+class :template for an object
+object :run time entity
+inheritance :acquiring the properties of parent class
+polymorphism : many form
+encapsulation :wrapping up of data
+abstraction :hiding the complex details
+dynamic binding :runtime memory allocation
+message passing : passing message to one class to another class
+exception handling :runtime error handling
+
+
+instance is named given to object
+constructor:-->initializes when object is created
+
+constructor:
+
+if we take more than one constructor in class then it will take  last constructor always
+if we want ro use constructor overloading  then use variable no of argument and 
+
+setter method:--->
+ setter method is used set values to the instance variables and also known as mutator methods.
+
+ getter method: ---->
+ getter method is used to get the values of instance variables.
+
+
+ class method:---->
+ we used to pass cls in class method
+
+ inner class:--->
+ class within a class.
